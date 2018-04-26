@@ -14,7 +14,7 @@
                 <ol>
                     <li style="font-family:Arial;font-size:18px;background-color:firebrick;color:white">US National Soccer Team - <a href="https://www.ussoccer.com/mens-national-team#tab-1">Homepage</a></li>
                     <li style="font-family:Verdana;font-size:14px;background-color:midnightblue;color:indianred">New England Revolution - <a href="https://www.revolutionsoccer.net/">Homepage</a></li>
-                    <li style="font-family:Verdana;font-size:14px;background-color:royalblue;color:white">Chelsea - <a href="https://www.chelseafc.com/">Homepage</a></li>
+                    <li style="font-family:Verdana;font-size:14px;background-color:royalblue;color:white">Chelsea FC - <a href="https://www.chelseafc.com/">Homepage</a></li>
                     <li style="font-family:Verdana;font-size:14px;background-color:navy;color:gainsboro">New England Patriots</li>
                     <li style="font-family:Calibri;font-size:10px;background-color:black;color:crimson">UMD Men's Soccer Team</li>     
                 </ol>
