@@ -3,17 +3,16 @@
 <html>
     <head>
         <title>Andrew Kocur</title>
-    </head>
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118290903-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118290903-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
-        gtag('config', 'UA-118290903-1');
-    </script>
-    <body>
+            gtag('config', 'UA-118290903-1');
+        </script>
+    </head>
         <p style="text-align:center"><strong>Andrew Kocur</strong></p>
         <a href="http://hmpg.net/"><img src="https://media.licdn.com/dms/image/C4D03AQH_Isu9fFA6Vg/profile-displayphoto-shrink_200_200/0?e=1529247600&v=beta&t=vLulgdunyAeUqnUe2rp1A1UEWVewlw0XuQyB1WpsG2A"></a>
         <p><em>I'm a 20 year old guy who grew up in the great little town Poolesville, MD. I graduated from Poolesville High School's Humanities Magnet Program in 2016, and eventually I'd like to have a job in law enforcement.</em></p>
